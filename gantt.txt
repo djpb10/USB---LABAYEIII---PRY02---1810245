@@ -1,0 +1,67 @@
+25
+39
+Development
+MapOut
+ConductCompetitior
+WriteEbook
+EstablishGroup
+DeterminePricing
+ClosedBeta
+RealoaseCoWritten
+LaunchClosed
+Build
+Garther
+OpenBeta
+FinalizeTraining
+TrainGS
+UpdateMarketing
+FixOustanding
+PublishBlogReps
+PublishBlogLeader
+GeneralRelease
+GeneralRLaunch
+Announce
+Work
+PromoteLaunch
+Excecute
+RealiseComplete
+Development ClosedBeta 30
+Development RealoaseCoWritten 30
+Development LaunchClosed 30
+Development Build 30
+Development Garther 30
+MapOut ClosedBeta 27
+ConductCompetitior WriteEbook 14
+ConductCompetitior EstablishGroup 14
+WriteEbook RealoaseCoWritten 4
+WriteEbook DeterminePricing 4
+EstablishGroup Build 12
+EstablishGroup Garther 12
+EstablishGroup PublishBlogReps 12
+ClosedBeta LaunchClosed 20
+ClosedBeta OpenBeta 20
+ClosedBeta FinalizeTraining 20
+ClosedBeta TrainGS 20
+ClosedBeta UpdateMarketing 20
+ClosedBeta FixOustanding 20
+ClosedBeta PublishBlogReps 20
+ClosedBeta PublishBlogLeader 20
+Build Garther 8
+Garther FixOustanding 20
+Garther PublishBlogReps 20
+OpenBeta GeneralRelease 25
+OpenBeta GeneralRLaunch 25
+OpenBeta Announce 25
+OpenBeta Work 25
+OpenBeta PromoteLaunch 25
+OpenBeta Excecute 25
+OpenBeta RealiseComplete 25
+FinalizeTraining TrainGS 12
+UpdateMarketing PublishBlogReps 2
+UpdateMarketing PublishBlogLeader 2
+FixOustanding GeneralRLaunch 13
+GeneralRLaunch Work 10
+GeneralRLaunch PromoteLaunch 10
+GeneralRLaunch Announce 10
+GeneralRLaunch Excecute 10
+Excecute RealiseComplete 3
